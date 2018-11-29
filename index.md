@@ -1,5 +1,5 @@
-#Woodden horses
-##Making of the horses
+# Woodden horses
+## Making of the horses
 I started with timber blocks:
 [alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/01_initial%20blocks.jpg "original timber blocks")
 I used template to draw horses on blocks:
@@ -11,7 +11,7 @@ I cut corners of the horse by knife, rasp and sand paper:
 Then I used some more sand paper, put lineseed oil on one of the horses and put into oven heated on 200°C. The result is:
 [alt text](https://github.com/JaroslavHavrda/woodheatTreatment/12_after%20one%20hour%20treatment.jpg "the almost final horse")
 
-##Weight versus time in oven
+## Weight versus time in oven
 I did not measure times very precisely. So please take the following table with grain of salt.
 
 |Time in oven|weight of raw horse|weight of lineseed oil treated horse|
@@ -24,7 +24,7 @@ I did not measure times very precisely. So please take the following table with 
 
 The weight on start was measured before the oil was applied.
 
-#Water applied to heat treated horses
+# Water applied to heat treated horses
 I put one half of teasoppn on top of each horse:
 [alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/13a_water%20applied.jpg "water on top of a horse")
 [alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/13b_water%20applied.jpg "water on top of a horse")
