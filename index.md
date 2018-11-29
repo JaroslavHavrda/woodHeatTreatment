@@ -23,3 +23,20 @@ I did not measure times very precisely. So please take the following table with 
 | 6h         | 112g              | 154g                               |
 
 The weight on start was measured before the oil was applied.
+
+#Water applied to heat treated horses
+I put one half of teasoppn on top of each horse:
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/13a_water%20applied.jpg "water on top of a horse")
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/13b_water%20applied.jpg "water on top of a horse")
+The state afrer five minutes:
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/14a_after%205%20minutes.jpg "water on top of a horse")
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/14b_after%205%20minutes.jpg "water on top of a horse")
+The state after fifteen minutes:
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/15a_after%2015%20minutes.jpg "water on top of a horse")
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/15b_after%2015%20minutes.jpg "water on top of a horse")
+The state after thirty minutes:
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/16a_after%2030%20minutes.jpg "water on top of a horse")
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/16b_after%2030%20minutes.jph "water on top of a horse")
+After thirty minutes I wiped the water with the following result:
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/17a_water%20removed.jpg "wiped horse")
+[alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/17b_water%20removed.jpg "wiped horse")
