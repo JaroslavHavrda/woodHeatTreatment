@@ -48,3 +48,9 @@ The state after thirty minutes:
 After thirty minutes I wiped the water with the following result:
 ![alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/raw/master/17a_water%20removed.JPG "wiped horse")
 ![alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/raw/master/17b_water%20removed.JPG "wiped horse")
+
+On the fracture we can see the inside of the horse:
+![alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/raw/master/18a_fracture.JPG "fractue overview")
+![alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/raw/master/18b_fracture%20detail%201.JPG "fracture detail")
+![alt text](https://github.com/JaroslavHavrda/woodHeatTreatment/raw/master/18c_fracture%20detail%202.JPG "fracture detail")
+
